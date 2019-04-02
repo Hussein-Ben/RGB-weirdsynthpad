@@ -1,2 +1,8 @@
 # RGB-weirdsynthpad
-weird synth pad built using p5.js
+covers all the basic waves.
+
+## Instructions
+
+- download the repo
+- double click index.html
+- enjoy
